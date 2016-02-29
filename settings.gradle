@@ -1,1 +1,1 @@
-include ':sample', ':aftermath', ':aftermath-processor', ':aftermath-annotations'
+include ':sample', ':aftermath', ':aftermath-processor', ':aftermath-annotations', ':aftermath-gradle-plugin'
